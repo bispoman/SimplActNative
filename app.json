@@ -3,7 +3,7 @@
   "displayName": "Appzinho",
   "expo": {
     "name": "SimplActNative",
-    "slug": "expo-template-bare",
+    "slug": "meu-appzinho-de-teste",
     "privacy": "unlisted",
     "sdkVersion": "36.0.0",
     "version": "1.0.0",
@@ -12,6 +12,9 @@
       "ios",
       "android",
       "web"
-    ]
+    ],
+    "android": {
+      "package": "com.bisponet.appzinho"
+    }
   }
 }
